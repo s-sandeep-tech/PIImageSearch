@@ -23,7 +23,7 @@ This project computes **image embeddings using OpenAI's CLIP model**, indexes th
 ---
 
 ## 📂 Project Structure
-
+```
 project/
 │── FinalDesignImages/          # Folder containing all images
 │── design_metadata.xlsx        # Excel file with image metadata
@@ -35,6 +35,7 @@ project/
 │── main.py                     # Main script
 │── README.md                   # This file
 
+```
 ---
 
 ## ⚙️ Requirements
